@@ -31,6 +31,13 @@ Remote Upload is a simple web application that allows users to fetch and save fi
 3. Place The both files in the directory you want to download your files in (assests,images,videos...)
 4. Watch the video below for further explanation.
 
+
+
+
+https://github.com/majdsassi/remote-upload/assets/108025873/68057e16-ac7c-41dd-a764-66ba8ad1e3dd
+
+
+
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
